@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Collections</string>
+    <string name="emtpy_fields_error">Please fill in all the fields!</string>
+    <string name="age_number_error">\"enter integer in age field \"</string>
+    <string name="invalid_email_error">Please enter the valid email!</string>
+    <string name="add_successfully">User added successfully!</string>
+    <string name="already_exists">User already exists</string>
+    <string name="not_exists">User does not exists!</string>
+    <string name="removed_successfully">User removed successfully!</string>
+    <string name="updated_successfully">User updated successfully!</string>
+    <string name="active_users">Heaven</string>
+    <string name="removed_users">Hell</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="age">Age</string>
+    <string name="email">Email</string>
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+    <string name="update">Update</string>
+    <string name="operation_result">Operation result</string>
+</resources>
